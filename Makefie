@@ -1,0 +1,13 @@
+231: Lec2-3/Program1/Program1.c
+	   gcc -o 231.out Lec2-3/Program1/Program1.c
+232: Lec2-3/Program2/Program2.c
+	   gcc -o 232.out Lec2-3/Program2/Program2.c
+233: Lec2-3/Program3/Program3.c
+	   gcc -o 233.out Lec2-3/Program3/Program3.c
+
+41: Lec4/Program1/Program1.c
+	  gcc -o 41.out Lec4/Program1/Program1.c
+42: Lec4/Program2/Program2.c
+  	gcc -o 42.out Lec4/Program2/Program2.c
+43: Lec4/Program3/Program3.c
+	  gcc -o 43.out Lec4/Program3/Program3.c
