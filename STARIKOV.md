@@ -1,4 +1,4 @@
-<h1>Makefile</h1>
+<h1>Makefile, starikov ktco-03-20</h1>
 Компиляция - makefile ab <br>
 Запуск программы - ./ab.out <br>
 (a - номер лекции, 23 или 4, b -0 номер программы)
